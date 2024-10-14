@@ -2,6 +2,21 @@
 
 I am a **Software Engineer** with over **4 years of experience**, passionate about building and optimizing web and mobile applications. Throughout my career, I have been involved in multiple projects that allowed me to work with various programming languages, frameworks, and technologies.
 
+## 🏢 Business Processes
+
+I have contributed to various projects across different industries, including:
+
+- 🏢 **Banking Solution**
+- 🏢 **Payment Gateway**
+- 🏢 **Warehousing**
+- 🏢 **ERP** (Enterprise Resource Planning)
+- 🏢 **CRM** (Customer Relationship Management)
+- 🏢 **P2P** (Peer-to-Peer Lending)
+- 🏢 **Stocks**
+- 🏢 **Mutual Funds**
+- 🏢 **HR Solution**
+- 🏢 **Point of Sales (POS)**
+
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks**:
