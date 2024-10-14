@@ -33,9 +33,6 @@ I have contributed to various projects across different industries, including:
 
 I love exploring new technologies and frameworks to solve real-world problems and improve user experiences. My background has equipped me with strong problem-solving skills and an agile mindset to work in fast-paced environments.
 
-## 📊 Percentage
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=holysix7&show_icons=true&locale=en&layout=compact" alt="holysix7" /></p>
-
 ## 📫 Get in Touch
 
 Feel free to reach out to me through any of the platforms below:
