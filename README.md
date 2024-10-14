@@ -6,16 +6,16 @@ I am a **Software Engineer** with over **4 years of experience**, passionate abo
 
 I have contributed to various projects across different industries, including:
 
-- 🏢 **Banking Solution**
-- 🏢 **Payment Gateway**
-- 🏢 **Warehousing**
-- 🏢 **ERP** (Enterprise Resource Planning)
-- 🏢 **CRM** (Customer Relationship Management)
-- 🏢 **P2P** (Peer-to-Peer Lending)
-- 🏢 **Stocks** (Saham)
-- 🏢 **Mutual Funds** (Reksa Dana)
-- 🏢 **HR Solution**
-- 🏢 **Point of Sales**
+- 💳 **Banking Solution** 
+- 💰 **Payment Gateway**
+- 📦 **Warehousing**
+- 🏭 **ERP** (Enterprise Resource Planning)
+- 📞 **CRM** (Customer Relationship Management)
+- 🤝 **P2P** (Peer-to-Peer Lending)
+- 📈 **Stocks** (Saham)
+- 📊 **Mutual Funds** (Reksa Dana)
+- 👔 **HR Solution**
+- 🛒 **Point of Sales**
 
 ## 🛠️ Tech Stack
 
