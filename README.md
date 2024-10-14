@@ -12,10 +12,10 @@ I have contributed to various projects across different industries, including:
 - 🏢 **ERP** (Enterprise Resource Planning)
 - 🏢 **CRM** (Customer Relationship Management)
 - 🏢 **P2P** (Peer-to-Peer Lending)
-- 🏢 **Stocks**
-- 🏢 **Mutual Funds**
+- 🏢 **Stocks** (Saham)
+- 🏢 **Mutual Funds** (Reksa Dana)
 - 🏢 **HR Solution**
-- 🏢 **Point of Sales (POS)**
+- 🏢 **Point of Sales**
 
 ## 🛠️ Tech Stack
 
@@ -37,12 +37,11 @@ I love exploring new technologies and frameworks to solve real-world problems an
 
 Feel free to reach out to me through any of the platforms below:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fikri-reformasi-gunawan-364842193/)](https://www.linkedin.com/in/fikri-reformasi-gunawan-364842193/)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/reformasi.js/)](https://www.instagram.com/reformasi.js/)  
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fikrireformasig@gmail.com)](mailto:fikrireformasig@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/holysix7)](https://twitter.com/holysix7)  
-[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/14899052/holysix)](https://stackoverflow.com/users/14899052/holysix)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fikri-reformasi-gunawan-364842193/)](https://www.linkedin.com/in/fikri-reformasi-gunawan-364842193/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/reformasi.js/)](https://www.instagram.com/reformasi.js/) 
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fikrireformasig@gmail.com)](mailto:fikrireformasig@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/holysix7)](https://twitter.com/holysix7) 
+[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/14899052/holysix)](https://stackoverflow.com/users/14899052/holysix) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@fikrireformasig)](https://medium.com/@fikrireformasig)
-
 
 Let's connect! ✨
