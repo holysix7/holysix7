@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Fikri Reformasi Gunawan
+# Hi there! 👋
 
 I am a **Software Engineer** with over **4 years of experience**, passionate about building and optimizing web and mobile applications. Throughout my career, I have been involved in multiple projects that allowed me to work with various programming languages, frameworks, and technologies.
 
